@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Archived files
 ARCH
